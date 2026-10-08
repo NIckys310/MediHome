@@ -13,7 +13,6 @@ MediHome es un sistema para la administración de servicios de atención médica
 
 ![Diagrama de clases](diagrama/MediHome.png)
 
-Archivo fuente del diagrama (Visual Paradigm): [diagrama/MediHome.vpp](diagrama/MediHome.vpp)
 
 ## Código fuente
 
